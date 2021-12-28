@@ -1,5 +1,3 @@
 # larrormc.github.io
-My Website
-
-Copyright 2021 Larror
-Dont use any of this code!
+This is my github website page, 
+Note that 90% of this website isnt done.
