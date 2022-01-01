@@ -1,3 +1,5 @@
-# larrormc.github.io
-This is my github website page, 
-Note that 90% of this website isnt done.
+# Larror's Center
+ My Official Developer Website
+ 
+## Disclaimer
+This is a work-in-progress website, meaning that the website will probably be revamped.
